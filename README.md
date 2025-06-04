@@ -183,7 +183,10 @@ For the second code transmitter.
 For the transmitter code we define for ardiunho uno atn we try the communicate the uno and microcontroller. We set the Kp and Kı values for communicate with each other and try to drive and encoder DC motor.
 
 
-CONCULUTİON
+![image](https://github.com/user-attachments/assets/3577538f-d1aa-4aee-8dda-6e973dcb7d90)
+
+
+# CONCULUTİON
 
 In this project, we learned how to design a PI controller and how to control the motor using Kp Ki values. During these operations, we also learned about communication and value control. While designing the controller, we analyzed, observed and learned how to write code.
  
